@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor-Sammy
-- 👀 I’m interested and also in love with WEB DEVELOPMENT 
-- 🌱 I’m currently learning new things about javascript and react everyday on side projects
-- 💞️ I’m looking to collaborate on tasks, projects and anything knowledgeable to me
+- 👀 I’m in love with everything concerning WEB DEVELOPMENT and my purpose is to be a part of live changing events, by using tech to make life easier and more convenient 
+- 🌱 I’m always learning new things about javascript everyday on side projects
+- 💞️ I’m looking forward to collaborate on tasks, projects and anything knowledgeable to me
 - 📫 You can always reach me through my email at victorsammy1997@gmail.com
 
 <!---
